@@ -1,5 +1,9 @@
 # Rush 01 — Skyscraper Puzzle
 
+![42 Project](https://img.shields.io/badge/42%20School-Project-blue)
+![Language](https://img.shields.io/badge/language-C-informational)
+![License](https://img.shields.io/badge/status-Completed-success)
+
 > Weekend group project at 42 School.  
 > The goal is to build a logic-based puzzle solver for a simplified version of the "Skyscraper" game using C.
 
